@@ -1,0 +1,30 @@
+# Compilados Java
+out/
+target/
+bin/
+build/
+*.class
+*.jar
+*.war
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# Sistema operativo y logs
+.DS_Store
+Thumbs.db
+*.log
